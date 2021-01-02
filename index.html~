@@ -18,7 +18,7 @@ body, html {
 .bgimg-1 {
   background-position: center;
   background-size: cover;
-  background-image: url("./assets/images/mac.jpg");
+  background-image: url("/assets/images/map.jpg");
   min-height: 100%;
 }
 
